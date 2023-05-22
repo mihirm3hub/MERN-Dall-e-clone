@@ -2,6 +2,7 @@
 ## LIVE SITE: [Dall-e_2.0](https://soft-dolphin-589fd6.netlify.app/)
 This project was bootstrapped with [ViteJs⚡](https://github.com/vitejs).
 
+`#MERN` `#TailwindCSS` `#Vite` `#MongoDb` `#OpenAI` `#Cloudinary` `#Express` `#React`
 ## Available Scripts
 In the project > client directory, you can run:
 
